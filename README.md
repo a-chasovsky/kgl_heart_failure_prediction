@@ -1,5 +1,7 @@
 ## Heart Failure Prediction Dataset
 
+**Стек:** Python, Pandas, Numpy, Sklearn, Tensorflow, Seaborn
+
 #### Краткое описание проекта
 
 https://www.kaggle.com/fedesoriano/heart-failure-prediction
